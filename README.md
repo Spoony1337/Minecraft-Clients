@@ -1,2 +1,2 @@
 # Minecraft-Clients
-Some Clients I made when I was a java noob feel free to download/use them even tho they are bad.
+My Old Clients Feel Free to use them
